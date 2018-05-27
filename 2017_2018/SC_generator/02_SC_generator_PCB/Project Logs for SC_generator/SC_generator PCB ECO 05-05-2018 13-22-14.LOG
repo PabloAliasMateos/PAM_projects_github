@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MAIN_PS Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Member From Class: ClassName=SC_generator Member=P2

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Added Component: Designator=D2(led_UV)
+Added Component: Designator=D4(led_UV)
+Added Component: Designator=D6(led_UV)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Member To Class: ClassName=LEDS_BOARD Member=Component D4 LED diode
+Added Member To Class: ClassName=LEDS_BOARD Member=Component D5 LED diode
+Added Member To Class: ClassName=LEDS_BOARD Member=Component D6 LED diode
+Added Member To Class: ClassName=LEDS_BOARD Member=Component R2 Res1

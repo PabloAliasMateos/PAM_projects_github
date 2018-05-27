@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SC_generator.PcbDoc   13/05/2018  22:53:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SC_generator.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             46        PTH        15.93inch (404.63mm)
+T2      30mil (0.75mm)                                            Round             6         PTH        1.10inch (27.89mm)
+T3      43mil (1.1mm)                                             Round             2         PTH        0.10inch (2.54mm)
+T4      63mil (1.6mm)                                             Round             3         PTH        0.46inch (11.58mm)
+T5      87mil (2.2mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T6      138mil (3.5mm)                                            Round             8         PTH        7.64inch (194.00mm)
+T7      43mil (1.1mm)                                             Round             2         NPTH       0.10inch (2.54mm)
+T8      354mil (9mm)                                              Round             2         NPTH       0.49inch (12.33mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              70
+
+Total Processing Time (hh:mm:ss) : 00:00:00

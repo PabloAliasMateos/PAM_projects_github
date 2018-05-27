@@ -1,0 +1,340 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Aug-26-2016 at 09:40:26 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='INSOLADORA_ESQUEMATICO';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_ELECT_0_SMD_CAPHB_0.33U':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS409450@INSOLADORA_ESQUEMATICO.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins409450@insoladora_esquematico.\c_elect_0.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins409450@insoladora_esquematico.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_ELECT_0_SMD_CAPHB_0.1U':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS409546@INSOLADORA_ESQUEMATICO.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins409546@insoladora_esquematico.\c_elect_0.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins409546@insoladora_esquematico.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_SMDCAP_126X63_100N':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS407778@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins407778@analog.\c.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins407778@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_SMDCAP_126X63_100N':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS420026@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins420026@analog.\c.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins420026@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_SMDCAP_126X63_100N':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS420127@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins420127@analog.\c.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins420127@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_SMDCAP_126X63_100N':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS420228@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins420228@analog.\c.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins420228@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_SMDCAP_126X63_22P':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS408066@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins408066@analog.\c.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins408066@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_SMDCAP_126X63_22P':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS408090@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins408090@analog.\c.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins408090@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 '1N6266/TO_0_SMDLED_67X35_1N6266':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS418420@INSOLADORA_ESQUEMATICO.1N6266/TO_0.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins418420@insoladora_esquematico.\1n6266/to_0.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins418420@insoladora_esquematico.\1n6266/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 '1N6266/TO_0_SMDLED_67X35_1N6266':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS410620@INSOLADORA_ESQUEMATICO.1N6266/TO_0.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins410620@insoladora_esquematico.\1n6266/to_0.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins410620@insoladora_esquematico.\1n6266/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'D_0_DIODO_350_D':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS417209@INSOLADORA_ESQUEMATICO.D_0.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins417209@insoladora_esquematico.\d_0.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins417209@insoladora_esquematico.\d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON3_JACK_HEMBRA_INSOLADORA_POW':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS424044@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins424044@connector.\con3.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins424044@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON3_CON3_LEDS_UV':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS424062@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins424062@connector.\con3.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins424062@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'BC547B_BC547B_BC547B':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS416544@EBIPOLAR.BC547B.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins416544@ebipolar.\bc547b.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins416544@ebipolar.\bc547b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMDRES_126X63_1K':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS410529@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins410529@analog.\r.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins410529@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMDRES_126X63_1K':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS420553@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins420553@analog.\r.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins420553@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'POT_POT_MULTI_10K':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS411459@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins411459@breakout.\pot.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins411459@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SMDRES_126X63_10K':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS407794@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins407794@analog.\r.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins407794@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_SMDRES_126X63_220':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS414839@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins414839@analog.\r.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins414839@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_SMDRES_126X63_220':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS421190@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins421190@analog.\r.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins421190@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_SMDRES_126X63_220':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS421287@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins421287@analog.\r.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins421287@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_SMDRES_126X63_1K':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS408146@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins408146@analog.\r.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins408146@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_SMDRES_126X63_10K':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS416751@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins416751@analog.\r.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins416751@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON_SMD_PUSHBUTTON_SW':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS423197@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins423197@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins423197@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON_SMD_PUSHBUTTON_SW':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS423250@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins423250@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins423250@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW PUSHBUTTON_SMD_PUSHBUTTON_SW':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS423303@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins423303@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins423303@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW PUSHBUTTON_SMD_PUSHBUTTON_SW':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS423103@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins423103@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins423103@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'SW MAG-SPDT_INTERRUPTOR_INSOLAD':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS429043@DISCRETE.SW MAG-SPDT.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins429043@discrete.\sw mag-spdt.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins429043@discrete.\sw mag-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LM7805C_LM7805_LM7805C':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS408616@OPAMP.LM7805C.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins408616@opamp.\lm7805c.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins408616@opamp.\lm7805c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LMB162H_LCD_0_LMB162H_LCD_LMB16':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS183@INSOLADORA_ESQUEMATICO.LMB162H_LCD_0.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins183@insoladora_esquematico.\lmb162h_lcd_0.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins183@insoladora_esquematico.\lmb162h_lcd_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ATMEGA328P_ATMEGA328P_ATMEGA328':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS78@INSOLADORA.ATMEGA328P.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins78@insoladora.\atmega328p.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins78@insoladora.\atmega328p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'RZ03_1C4_D005_RZ03_1C4_D005_RZ0':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS416214@INSOLADORA.RZ03_1C4_D005.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins416214@insoladora.\rz03_1c4_d005.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins416214@insoladora.\rz03_1c4_d005.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_CRISTAL16MHZ_CRYSTAL 16':;
+
+SECTION_NUMBER 1
+ '@INSOLADORA_ESQUEMATICO.SCHEMATIC1(SCH_1):INS408050@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@insoladora_esquematico.schematic1(sch_1):ins408050@discrete.\crystal.normal\(chips)',
+ P_PATH='@insoladora_esquematico.schematic1(sch_1):page1_ins408050@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

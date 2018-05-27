@@ -1,0 +1,50 @@
+Change Value of Parameter Value in Part C1 Old=33nF New=10nF
+Change Value of Parameter Value in Part C4 Old=220nF New=10nF
+Change Value of Parameter Value in Part C9 Old=1uF New=10nF
+Change Value of Parameter Value in Part C11 Old=330nF New=10nF
+Change Value of Parameter Value in Part R1 Old=10K New=1K
+Change Value of Parameter Value in Part R2 Old=10K New=1K
+Change Value of Parameter Value in Part R7 Old=100 New=1K
+Change Value of Parameter Value in Part R8 Old=100K New=10K
+Change Value of Parameter Value in Part R11 Old=10K New=1K
+Change Value of Parameter Value in Part R12 Old=10K New=1K
+Replace Symbol from C1 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C2 Cap Electrol in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Electrol from PAM_capacitors.IntLib
+Replace Symbol from C3 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C4 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C5 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C6 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C7 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C8 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C9 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C10 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from C11 Cap Semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Cap Semi from PAM_capacitors.IntLib
+Replace Symbol from D1 CHIPLED 0805 in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with CHIPLED 0805 from PAM_diodes.IntLib
+Replace Symbol from D2 CHIPLED 0805 in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with CHIPLED 0805 from PAM_diodes.IntLib
+Replace Symbol from D3 1N4148W in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with 1N4148W from PAM_diodes.IntLib
+Replace Symbol from D4 SBR0560S1Q-7 in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with SBR0560S1Q-7 from PAM_diodes.IntLib
+Replace Symbol from D5 SBR0560S1Q-7 in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with SBR0560S1Q-7 from PAM_diodes.IntLib
+Replace Symbol from P1 SKT_4mm in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with SKT_4mm from PAM_connectors.IntLib
+Replace Symbol from P2 jack_female_5.5_2.1 in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with jack_female_5.5_2.1 from PAM_connectors.IntLib
+Replace Symbol from P3 SKT_4mm in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with SKT_4mm from PAM_connectors.IntLib
+Replace Symbol from P4 TERM BLOCK 2.54MM 2POS in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with TERM BLOCK 2.54MM 2POS from PAM_connectors.IntLib
+Replace Symbol from Q1 IPD12CN10NGATMA1 in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with IPD12CN10NGATMA1 from PAM_Transistors.IntLib
+Replace Symbol from Q2 SMMBT5551LT1G in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with SMMBT5551LT1G from PAM_Transistors.IntLib
+Replace Symbol from R1 Res semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Res semi from PAM_resistors.IntLib
+Replace Symbol from R2 Res semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Res semi from PAM_resistors.IntLib
+Replace Symbol from R3 Res semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Res semi from PAM_resistors.IntLib
+Replace Symbol from R7 Res semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Res semi from PAM_resistors.IntLib
+Replace Symbol from R8 Pot SMD in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Pot SMD from PAM_resistors.IntLib
+Replace Symbol from R9 Res semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Res semi from PAM_resistors.IntLib
+Replace Symbol from R10 Res semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Res semi from PAM_resistors.IntLib
+Replace Symbol from R11 Res semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Res semi from PAM_resistors.IntLib
+Replace Symbol from R12 Res semi in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with Res semi from PAM_resistors.IntLib
+Replace Symbol from S1 SW SPST TH in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with SW SPST TH from PAM_switches_buttons.IntLib
+Replace Symbol from S2 SW SPST SMD in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with SW SPST SMD from PAM_switches_buttons.IntLib
+Replace Symbol from S3 BUTTON SPST in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with BUTTON SPST from PAM_switches_buttons.IntLib
+Replace Symbol from TP1 TEST_POINT in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with TEST_POINT from PAM_connectors.IntLib
+Replace Symbol from TP2 TEST_POINT in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with TEST_POINT from PAM_connectors.IntLib
+Replace Symbol from U2 74HC4052D in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with 74HC4052D from PAM_ICs.IntLib
+Replace Symbol from U3 LM555 in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with LM555 from PAM_ICs.IntLib
+Replace Symbol from U4 74HC4052D in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with 74HC4052D from PAM_ICs.IntLib
+Replace Symbol from U5 74HC4052D in C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc with 74HC4052D from PAM_ICs.IntLib

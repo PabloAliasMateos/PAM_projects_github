@@ -1,0 +1,9 @@
+Added Component: Designator=TP1(TP_SMD_pin)
+Added Component: Designator=TP2(TP_SMD_pin)
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=NetTP2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetTP2_1 Pin=U3-3
+Added Pin To Net: NetName=NetTP2_1 Pin=U4-14
+Added Net: Name=NetTP2_1
+Added Member To Class: ClassName=SC_generator Member=Component TP1 TEST_POINT
+Added Member To Class: ClassName=SC_generator Member=Component TP2 TEST_POINT
