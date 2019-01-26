@@ -1,9 +1,0 @@
-Change Component DesignItemId : Designator=U2 Old DesignItemId=74HC4052D New DesignItemId=HEF4052BT,653
-Change Component DesignItemId : Designator=U4 Old DesignItemId=74HC4052D New DesignItemId=HEF4052BT,653
-Change Component DesignItemId : Designator=U5 Old DesignItemId=74HC4052D New DesignItemId=HEF4052BT,653
-Change Component Comment : Designator=U2 Old Comment=74HC4052D New Comment=HEF4052BT,653
-Change Component Comment : Designator=U4 Old Comment=74HC4052D New Comment=HEF4052BT,653
-Change Component Comment : Designator=U5 Old Comment=74HC4052D New Comment=HEF4052BT,653
-Change Component Description : Designator=U2 Old Description=Multiplexor/Demultiplexor 74HC4052D, Doble 4:1, 5 V, SOIC, 16 pines, 2 canales New Description=IC MUX/DEMUX DUAL 4X1 16SOIC
-Change Component Description : Designator=U4 Old Description=Multiplexor/Demultiplexor 74HC4052D, Doble 4:1, 5 V, SOIC, 16 pines, 2 canales New Description=IC MUX/DEMUX DUAL 4X1 16SOIC
-Change Component Description : Designator=U5 Old Description=Multiplexor/Demultiplexor 74HC4052D, Doble 4:1, 5 V, SOIC, 16 pines, 2 canales New Description=IC MUX/DEMUX DUAL 4X1 16SOIC

@@ -1,0 +1,53 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : INSOLADORA.brd                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jul 11 22:31:47 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / ATMEGA328P_ATMEGA328P_ATMEGA328 / ATMEGA328P at (-1854.00 2929.50)
+         Placed symbol:  U2 / LMB162H_LCD_0_LMB162H_LCD_LMB16 / LMB162H_LCD at (200.50 1683.00)
+         Placed symbol:  U4 / RZ03_1C4_D005_RZ03_1C4_D005_RZ0 / RZ03_1C4_D005 at (-1842.00 3691.00)
+         Placed symbol:  Q1 / BC547B_BC547B_BC547B / BC547B at (-714.00 3391.00)
+         Placed symbol:  U1 / LM7805C_LM7805_LM7805C / LM7805 at (-359.50 3341.00)
+         Placed symbol:  J1 / CON3_CON3_POWER / CON3 at (48.50 3391.00)
+         Placed symbol:  J2 / CON3_CON3_LEDS_UV / CON3 at (656.50 3391.00)
+         Placed symbol:  R3 / POT_POT_MULTI_10K / POT_MULTI at (1254.50 3337.00)
+         Placed symbol:  C4 / C_SMDCAP_126X63_100N / SMDCAP_126X63 at (1622.50 3334.50)
+         Placed symbol:  C3 / C_SMDCAP_126X63_100N / SMDCAP_126X63 at (-1876.00 3842.50)
+         Placed symbol:  C5 / C_SMDCAP_126X63_100N / SMDCAP_126X63 at (-1651.00 3842.50)
+         Placed symbol:  C6 / C_SMDCAP_126X63_100N / SMDCAP_126X63 at (-1426.00 3842.50)
+         Placed symbol:  D3 / D_0_DIODO_350_D / DIODO_350 at (-1201.00 3849.00)
+         Placed symbol:  D2 / 1N6266/TO_0_SMDLED_67X35_1N6266 / SMDLED_67X35 at (-730.50 3832.50)
+         Placed symbol:  C7 / C_SMDCAP_126X63_22P / SMDCAP_126X63 at (-569.50 3842.50)
+         Placed symbol:  D1 / 1N6266/TO_0_SMDLED_67X35_1N6266 / SMDLED_67X35 at (-344.50 3832.50)
+         Placed symbol:  C2 / C_ELECT_0_CAP196_0.1U / CAP196 at (-139.50 3849.00)
+         Placed symbol:  C8 / C_SMDCAP_126X63_22P / SMDCAP_126X63 at (44.50 3842.50)
+         Placed symbol:  R8 / R_SMDRES_126X63_1K / SMDRES_126X63 at (269.50 3842.50)
+         Placed symbol:  R2 / R_SMDRES_126X63_1K / SMDRES_126X63 at (494.50 3842.50)
+         Placed symbol:  R4 / R_SMDRES_126X63_10K / SMDRES_126X63 at (719.50 3842.50)
+         Placed symbol:  R9 / R_SMDRES_126X63_10K / SMDRES_126X63 at (944.50 3842.50)
+         Placed symbol:  R5 / R_SMDRES_126X63_220 / SMDRES_126X63 at (1169.50 3842.50)
+         Placed symbol:  R6 / R_SMDRES_126X63_220 / SMDRES_126X63 at (1394.50 3842.50)
+         Placed symbol:  R7 / R_SMDRES_126X63_220 / SMDRES_126X63 at (1619.50 3842.50)
+         Placed symbol:  SW1 / SW PUSHBUTTON_SMD_PUSHBUTTON_SW / SMD_PUSHBUTTON at (-1876.00 4080.00)
+         Placed symbol:  SW2 / SW PUSHBUTTON_SMD_PUSHBUTTON_SW / SMD_PUSHBUTTON at (-1462.00 4080.00)
+         Placed symbol:  SW3 / SW PUSHBUTTON_SMD_PUSHBUTTON_SW / SMD_PUSHBUTTON at (-1048.00 4080.00)
+         Placed symbol:  SW4 / SW PUSHBUTTON_SMD_PUSHBUTTON_SW / SMD_PUSHBUTTON at (-634.00 4080.00)
+ERROR:   Cannot place symbol:  C1 / C_ELECT_0_SMD_CAPHB_0.33U / SMD_CAPHB
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+         Placed symbol:  R1 / R_SMDRES_126X63_1K / SMDRES_126X63 at (62.60 4050.50)
+ERROR:   Cannot place symbol:  Y1 / CRYSTAL_CRISTAL16MHZ_CRYSTAL 16 / CRISTAL16MHZ
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+
+
+Placed 30 of 32 applicable (32 total) symbols.
+
+-----------------------------------------------------------------------
+

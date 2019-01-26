@@ -1,3 +1,0 @@
-To find a file that exceeds an specific size and print its path (in this case files greater than 100MB in order to remove them before commit and thus not exceed github max file size):
-
-forfiles /P "C:\Users\pablo\Google Drive\PAM_projects_github" /M * /S /C "cmd /c if @fsize GEQ 104857600 echo @path"

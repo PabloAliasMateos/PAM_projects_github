@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=MAIN_PS Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=AUX_PS Pin=C4-2
+Removed Pin From Net: NetName=VCC Pin=D1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=D2-2
+Removed Pin From Net: NetName=MAIN_PS Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Pin From Net: NetName=GND Pin=P2-7
+Removed Pin From Net: NetName=GND Pin=P2-8
+Removed Pin From Net: NetName=GND Pin=P2-9
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=MAIN_PS Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=AUX_PS Pin=S1-2
+Removed Pin From Net: NetName=NetD1_2 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=AUX_PS Pin=U1-6
+Removed Pin From Net: NetName=VCC Pin=U1-7
+Removed Pin From Net: NetName=MAIN_PS Pin=U1-8
+Removed Member From Class: ClassName=SC_generator Member=C1
+Removed Member From Class: ClassName=SC_generator Member=C4
+Removed Member From Class: ClassName=SC_generator Member=P2
+Removed Member From Class: ClassName=SC_generator Member=R4
+Removed Member From Class: ClassName=SC_generator Member=R5
+Removed Member From Class: ClassName=SC_generator Member=R6
+Removed Member From Class: ClassName=SC_generator Member=U1
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=STD20NF06LT4 New DesignItemId=IPD12CN10NGATMA1
+Change Component Comment : Designator=Q1 Old Comment=STD20NF06LT4 New Comment=IPD12CN10NGATMA1
+Change Component Description : Designator=Q1 Old Description=Canal N Montaje en superficie 60V 24 A (Tc) 60 W (Tc) D-Pak New Description=Canal N Montaje en superficie 100V 67 A (Tc) 125 W (Tc) PG-TO252-3
+Added Component: Designator=C?(CAP_0805_L)
+Added Component: Designator=C?(CAP_0805_L)
+Added Component: Designator=D?(SOD-123_M)
+Added Component: Designator=D?(SOD-123_M)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC11_2 Pin=C?-2
+Added Pin To Net: NetName=NetC11_2 Pin=C?-2
+Added Pin To Net: NetName=MAIN_PS Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=AUX_PS Pin=D?-1
+Added Pin To Net: NetName=MAIN_PS Pin=D?-1
+Added Pin To Net: NetName=AUX_PS Pin=P4-1
+Added Pin To Net: NetName=VCC Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=S1-1
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetP?_3 Pin=R2-1
+Added Net: Name=NetP?_3
+Added Member To Class: ClassName=SC_generator Member=Component C? Cap Semi
+Added Member To Class: ClassName=SC_generator Member=Component C? Cap Semi
+Added Member To Class: ClassName=SC_generator Member=Component D? SBR0560S1Q-7
+Added Member To Class: ClassName=SC_generator Member=Component D? SBR0560S1Q-7

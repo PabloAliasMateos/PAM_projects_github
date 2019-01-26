@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=S2-1
-Removed Pin From Net: NetName=VCC Pin=S2-2
-Removed Pin From Net: NetName=555_MODE Pin=S2-3
-Change Component DesignItemId : Designator=S2 Old DesignItemId=SW SPST SMD New DesignItemId=SW SPST TH
-Change Component Footprint: Designator=S2 Old Footprint=Jumper switch SPDT New Footprint=DIP_3x1_slide_switch
-Change Component Comment : Designator=S2 Old Comment=SPDT SWITCH 25MA 24V New Comment=SW SPST 500mA 24V
-Added Pin To Net: NetName=555_MODE Pin=S2-1
-Added Pin To Net: NetName=GND Pin=S2-2
-Added Pin To Net: NetName=VCC Pin=S2-3

@@ -1,0 +1,132 @@
+\t (00:03:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:03:00)     Journal start - Wed Aug 31 09:58:28 2016
+\t (00:03:00)         Host=USUARIO-PC User=Usuario Pid=432 CPUs=8
+\t (00:03:00) 
+\t (00:03:02) Opening existing design...
+\d (00:03:02) Database opened: C:/Users/Usuario/Desktop/Insoladora_v2/Insoladora_PCB/INSOLADORA_SOLDERMASK_TOP.brd
+\t (00:03:03) Grids are drawn 40.00, 40.00 apart for enhanced viewability.
+\i (00:03:03) trapsize 2840
+\i (00:03:03) trapsize 2788
+\i (00:03:03) trapsize 2849
+\i (00:03:04) trapsize 2518
+\i (00:03:04) trapsize 2518
+\i (00:03:05) etchedit 
+\i (00:03:11) open 
+\i (00:03:15) fillin "INSOLADORA_ROUTED.brd"
+\t (00:03:15) Opening existing design...
+\t (00:03:15) Grids are drawn 40.00, 40.00 apart for enhanced viewability.
+\i (00:03:15) trapsize 2518
+\d (00:03:16) Database opened: C:/Users/Usuario/Desktop/Insoladora_v2/Insoladora_PCB/INSOLADORA_ROUTED.brd
+\i (00:03:16) etchedit 
+\i (01:22:46) xhilite 
+\i (01:22:46) xNet Vcc 
+\i (01:22:46) xname_flush 
+\i (01:22:46) trapsize 1866
+\t (01:22:46) Net "Vcc" highlighted.
+\i (01:22:46) done 
+\i (01:22:46) etchedit 
+\i (01:23:18) xdehilite 
+\i (01:23:18) xNet Vcc 
+\i (01:23:18) xname_flush 
+\t (01:23:18) Net "Vcc" dehighlighted.
+\i (01:23:18) done 
+\i (01:23:18) xhilite 
+\i (01:23:18) xNet 0 
+\i (01:23:18) xname_flush 
+\i (01:23:18) trapsize 1866
+\t (01:23:18) Net "0" highlighted.
+\i (01:23:18) done 
+\i (01:23:18) etchedit 
+\i (01:23:54) xdehilite 
+\i (01:23:54) xNet 0 
+\i (01:23:54) xname_flush 
+\t (01:23:54) Net "0" dehighlighted.
+\i (01:23:55) done 
+\i (01:23:55) etchedit 
+\i (01:24:05) xhilite 
+\i (01:24:05) xNet Vcc 
+\i (01:24:05) xname_flush 
+\i (01:24:05) trapsize 1866
+\t (01:24:05) Net "Vcc" highlighted.
+\i (01:24:05) done 
+\i (01:24:05) etchedit 
+\i (01:36:20) xdehilite 
+\i (01:36:20) xNet Vcc 
+\i (01:36:20) xname_flush 
+\t (01:36:20) Net "Vcc" dehighlighted.
+\i (01:36:20) done 
+\i (01:36:20) etchedit 
+\i (01:41:29) pick grid -2264.88 -106.94
+\t (01:41:29) last pick:  -2260.00  -110.00
+\i (03:31:22) xhilite 
+\i (03:31:22) xrefdes U2.5 
+\i (03:31:22) xname_flush 
+\i (03:31:22) trapsize 123
+\t (03:31:22) Pin "U2.5" highlighted.
+\i (03:31:22) done 
+\i (03:31:22) etchedit 
+\i (03:31:24) pick grid -198.75 -160.03
+\t (03:31:24) last pick:  -200.00  -160.00
+\i (03:31:24) add connect 
+\t (03:31:25) Pick first element.
+\t (03:31:25) last pick:  -159.70  -120.12
+\i (03:31:26) zoom out 1 
+\i (03:31:26) setwindow pcb
+\i (03:31:26) zoom out -211.80 -151.66
+\i (03:31:26) trapsize 246
+\i (03:31:26) zoom out 1 
+\i (03:31:26) setwindow pcb
+\i (03:31:26) zoom out -211.81 -151.65
+\i (03:31:26) trapsize 493
+\i (03:31:27) zoom out 1 
+\i (03:31:27) setwindow pcb
+\i (03:31:27) zoom out -211.80 -151.65
+\i (03:31:27) trapsize 985
+\i (03:31:27) zoom out 1 
+\i (03:31:27) setwindow pcb
+\i (03:31:27) zoom out -211.81 -151.66
+\i (03:31:27) trapsize 1971
+\i (03:31:28) Esc 
+\i (03:31:28) Esc 
+\i (03:31:30) prepopup -2237.99 49.39
+\i (03:31:31) cancel 
+\i (03:31:31) etchedit 
+\i (03:31:34) pick grid 2736.81 -305.39
+\t (03:31:34) last pick:  2740.00  -310.00
+\i (03:31:36) zoom out 1 
+\i (03:31:36) setwindow pcb
+\i (03:31:36) zoom out 2476.64 -344.81
+\i (03:31:36) trapsize 3942
+\i (03:31:36) zoom in 1 
+\i (03:31:36) setwindow pcb
+\i (03:31:36) zoom in 357.81 -1111.11
+\i (03:31:36) trapsize 1971
+\i (03:31:37) zoom in 1 
+\i (03:31:37) setwindow pcb
+\i (03:31:37) zoom in -513.37 -799.70
+\i (03:31:37) trapsize 985
+\i (03:31:38) zoom in 1 
+\i (03:31:38) setwindow pcb
+\i (03:31:38) zoom in -635.57 -1026.36
+\i (03:31:38) trapsize 493
+\i (03:31:45) xdehilite 
+\i (03:31:45) xrefdes U2.5 
+\i (03:31:45) xname_flush 
+\t (03:31:45) Pin "U2.5" dehighlighted.
+\i (03:31:45) done 
+\i (03:31:45) etchedit 
+\i (03:31:48) xhilite 
+\i (03:31:48) xrefdes C7 
+\i (03:31:48) xname_flush 
+\i (03:31:48) trapsize 276
+\t (03:31:48) Symbol "C7" highlighted.
+\i (03:31:48) done 
+\i (03:31:48) etchedit 
+\i (03:31:50) xdehilite 
+\i (03:31:50) xrefdes C7 
+\i (03:31:50) xname_flush 
+\t (03:31:50) Symbol "C7" dehighlighted.
+\i (03:31:50) done 
+\i (03:31:50) xhilite 
+\i (03:31:50) xrefdes C8 
+\i (03:31:5

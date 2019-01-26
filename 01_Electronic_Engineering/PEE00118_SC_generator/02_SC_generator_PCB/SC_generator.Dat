@@ -1,0 +1,20 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SC_generator.PrjPcb|ReportField=ProjectFullPath~C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.PrjPcb|ReportField=Title~Bill of Materials For Project [SC_generator.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~42|ReportField=ReportTime~18:51:07|ReportField=ReportDate~02/05/2018|ReportField=ReportDateTime~02/05/2018 18:51:07|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~02/05/2018|ReportField=CurrentTime~18:47:29|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.SchDoc|ReportField=DocumentName~SC_generator.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~02/05/2018|ReportField=Organization~|ReportField=ProjectName~SC_generator.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~SC_generator.PrjPcb|ReportField=DataSourceFullPath~C:\Users\pablo\Desktop\SC_generator\02_SC_generator_PCB\SC_generator.PrjPcb
+1|Cap Semi|Generic ceramic capacitor|C1, C3, C4, C5, C6, C7, C8, C9, C10, C11|CAP_0805_L|Cap Semi|10
+2|Cap Electrol|Generic electrolitic capacitor|C2|CAPAE5043X55M|Cap Electrol|1
+3|CHIPLED OSRAM 0805||D1, D2|CHIPLED_0805_N|CHIPLED 0805|2
+4|1N4148W|Diodo de conmutación, 1N4148W-E3-08, 150mA, 75V, SOD-123, 2-Pines, Maximum of 50|D3|SOD-123_M|1N4148W|1
+5|SKT_4mm|Conector hembra de 4 mm Hirschmann 930176101, 30 V ac, 60 V dc, 32A, Rojo, Latón, Estaño, Hembra, Soldadura, 23.5mm|P1, P3|4MM SAFETY JACK|SKT_4mm|2
+6|MINUSB_B_R/A|USB - mini B USB 2.0 OTG Receptáculo Conector 5 Posiciones Montaje en superficie, ángulo recto, orificio pasante|P2|CONN RECEPT MINIUSB R/A 5POS SMD|MINUSB_B_R/A|1
+7|TERM BLOCK 2.54MM 2POS|2 Position Wire to Board Terminal Block Horizontal with Board 0.100" (2.54mm) Through Hole|P4|TERM BLOCK 2.54MM 2POS|TERM BLOCK 2.54MM 2POS|1
+8|STD20NF06LT4|Canal N Montaje en superficie 60V 24 A (Tc) 60 W (Tc) D-Pak|Q1|TO-252/DPAK|STD20NF06LT4|1
+9|SMMBT5551LT1G|Transistor bipolar, SMMBT5551LT1G, NPN 600 mA 160 V HFE:30 SOT-23, 3 pines,|Q2|SOT-23|SMMBT5551LT1G|1
+10|Res semi|Generic resistor|R1, R2, R3, R4, R5, R6, R7, R9, R10, R11, R12|RES_1206_N|Res semi|11
+11|Pot SMD|Generic pot SMD|R8|3361P_POT|Pot SMD|1
+12|SW SPST 500mA 24V|Interruptor SIP, SPST, Pasante, Actuador Deslizante, 500 mA a 24 V|S1|DIP_3x1_slide_switch|SW SPST TH|1
+13|SPDT SWITCH 25MA 24V|SWITCH SLIDE DIP SPDT 25MA 24V|S2|Jumper switch SPDT|SW SPST SMD|1
+14|BUTTON SPST|Interruptor táctil tipo Botón, Negro, contactos SPST-NA, Montaje superficial|S3|BUTTON SPDT|BUTTON SPST|1
+15|TEST_POINT|Generic test point, several footprints|TP1|TP_SMD_pin|TEST_POINT|1
+16|TEST_POINT|Generic test point, several footprints|TP2|TP_SMD|TEST_POINT|1
+17|TPS2113APW|Mux de potencia TPS2113APW, 1 canales Interruptor automático 1.25A 5,5 V max. 8 pines TSSOP|U1|TSSOP-8|TPS2113APW|1
+18|74HC4052D|Multiplexor/Demultiplexor 74HC4052D, Doble 4:1, 5 V, SOIC, 16 pines, 2 canales|U2, U4, U5|SO16_M|74HC4052D|3
+19|LM555|IC OSC SINGLE TIMER|U3|SO-8_M|LM555|1

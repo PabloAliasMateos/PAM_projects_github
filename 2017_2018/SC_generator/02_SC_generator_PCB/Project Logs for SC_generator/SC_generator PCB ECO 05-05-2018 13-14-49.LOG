@@ -1,5 +1,0 @@
-Added Component: Designator=P2(PJ-059A)
-Added Pin To Net: NetName=MAIN_PS Pin=P2-1
-Added Pin To Net: NetName=GND Pin=P2-2
-Added Pin To Net: NetName=NetP2_3 Pin=P2-3
-Added Member To Class: ClassName=SC_generator Member=Component P2 JCK_F_5.5_2.1

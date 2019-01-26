@@ -1,4 +1,0 @@
-Added Component: Designator=S1(DIP_3x1_slide_switch)
-Added Pin To Net: NetName=AUX_PS Pin=S1-1
-Added Pin To Net: NetName=NetS1_2 Pin=S1-2
-Added Member To Class: ClassName=SC_generator Member=Component S1 SW SPST 500mA 24V

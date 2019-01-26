@@ -1,6 +1,0 @@
-Added Component: Designator=S2(Jumper switch SPDT)
-Added Pin To Net: NetName=GND Pin=S2-1
-Added Pin To Net: NetName=VCC Pin=S2-2
-Added Pin To Net: NetName=555_MODE Pin=S2-3
-Added Member To Class: ClassName=SC_generator Member=Component S2 SPDT SWITCH 25MA 24V
-Added Room: Name=SC_generator

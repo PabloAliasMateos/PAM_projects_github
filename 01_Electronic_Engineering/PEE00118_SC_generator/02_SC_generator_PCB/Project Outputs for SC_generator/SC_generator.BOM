@@ -1,0 +1,26 @@
+Bill of Material for
+On 07/05/2018 at 20:09:27
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1N4148W             SOD-123_M        1    D3                           Diodo de conmutación, 1N4148W-E3-08, 150mA, 75V, SOD-123, 2-Pines, Maximum of 50 
+ BUTTON SPST         BUTTON SPDT      1    S3                           Interruptor táctil tipo Botón, Negro, contactos SPST-NA, Montaje superficial 
+ Cap Electrol        CAPAE5043X55M    1    C2                           Generic electrolitic capacitor 
+ Cap Semi            CAP_0805_L      10    C1, C3, C4, C5, C6, C7, C8   Generic ceramic capacitor 
+                                           C9, C10, C11
+ CHIPLED OSRAM 0805  CHIPLED_0805_N    2    D1, D2                                            
+ HEF4052BT,653       SO16_M           3    U2, U4, U5                   IC MUX/DEMUX DUAL 4X1 16SOIC 
+ IPD12CN10NGATMA1    TO-252/DPAK      1    Q1                           Canal N Montaje en superficie 100V 67 A (Tc) 125 W (Tc) PG-TO252-3 
+ JCK_F_5.5_2.1       PJ-059A          1    P2                           Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle 
+ LM555               SO-8_M           1    U3                           IC OSC SINGLE TIMER  
+ Pot SMD             3361P_POT        1    R8                           Generic pot SMD      
+ Res semi            RES_1206_N       8    R1, R2, R3, R7, R9, R10, R11 Generic resistor     
+                                           R12
+ SBR0560S1Q-7        SOD-123_M        2    D4, D5                       Diodo Súper barrera Montaje en superficie 60V 500 mA SOD-123 
+ SKT_4mm             4MM SAFETY JACK    2    P1, P3                       Conector hembra de 4 mm Hirschmann 930176101, 30 V ac, 60 V dc, 32A, Rojo, Latón, Estaño, Hembra, Soldadura, 23.5mm 
+ SMMBT5551LT1G       SOT-23           1    Q2                           Transistor bipolar, SMMBT5551LT1G, NPN 600 mA 160 V HFE:30 SOT-23, 3 pines, 
+ SPDT SWITCH 25MA 24V Jumper switch SPDT    1    S2                           SWITCH SLIDE DIP SPDT 25MA 24V 
+ SW SPST 500mA 24V   DIP_3x1_slide_switch    1    S1                           Interruptor SIP, SPST, Pasante, Actuador Deslizante, 500 mA a 24 V 
+ TERM BLOCK 2.54MM 2POS TERM BLOCK 2.54MM 2POS    1    P4                           2 Position Wire to Board Terminal Block Horizontal with Board 0.100" (2.54mm) Through Hole 
+ TEST_POINT          TP_SMD           1    TP2                          Generic test point, several footprints 
+ TEST_POINT          TP_SMD_pin       1    TP1                          Generic test point, several footprints 
